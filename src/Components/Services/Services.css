@@ -1,0 +1,32 @@
+.services-container{
+    text-align: center;
+    margin-top: 55px;
+}
+.services-content{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+}
+.service{
+    margin-top: 45px;
+}
+.service img{
+    width: 50px;
+}
+.service h2{
+    font-size: 18px;
+    color: brown;
+}
+.service p{
+    font-size: 14px;
+    color: rgb(156, 156, 156);
+}
+.text-service p{
+    color: red;
+    font-weight: 500;
+}
+@media (max-width: 425px) {
+    .services-content{
+        display: block;
+    }
+}

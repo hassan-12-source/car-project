@@ -1,0 +1,21 @@
+.background-container-appointment {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+    text-align: center; 
+    padding: 20px; 
+    color: #fff; 
+  }
+.appointment-text{
+    color: red;
+    text-align: center;
+    padding: 20px;
+}
+.btn-appointment{
+    background-color: red;
+    border: none;
+    color: white;
+    font-size: 10px;
+    padding: 2px 15px;
+}
