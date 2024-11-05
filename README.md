@@ -19,4 +19,4 @@ Technologies Used :
 - Netlify: Deployed with Netlify for fast and reliable hosting
 
 
-Car Selection Page : (images/React-App-11-05-2024_12_42_PM.png)
+![Car Selection Page](images/React-App-11-05-2024_12_42_PM.png)
